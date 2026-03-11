@@ -6,7 +6,8 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "eslint"
+    "lint": "eslint",
+    "types": "tsc --noEmit"
   },
   "dependencies": {
     "@heroui/react": "^3.0.0-beta.8",
@@ -16,6 +17,7 @@
     "eslint-plugin-prettier": "^5.5.5",
     "eslint-plugin-tailwindcss": "^4.0.0-beta.0",
     "next": "16.1.6",
+    "next-intl": "^4.8.3",
     "prettier": "^3.8.1",
     "prettier-plugin-tailwindcss": "^0.7.2",
     "react": "19.2.3",
