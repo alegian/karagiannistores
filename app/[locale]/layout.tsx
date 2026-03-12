@@ -1,18 +1,18 @@
 import {NextIntlClientProvider, hasLocale} from 'next-intl';
 import {notFound} from 'next/navigation';
 import {routing} from '@/i18n/routing';
-import {DM_Sans, Cormorant_Garamond} from 'next/font/google';
+import {Inter, Lora} from 'next/font/google';
 import {ReactNode} from 'react';
 import {getTranslations} from 'next-intl/server';
 import {Metadata} from 'next';
 
-const fontSans = DM_Sans({
+const fontSans = Inter({
   subsets: ['latin'],
   display: 'swap',
   variable: '--font-sans-next',
 });
 
-const fontSerif = Cormorant_Garamond({
+const fontSerif = Lora({
   subsets: ['latin'],
   display: 'swap',
   variable: '--font-serif-next',

@@ -4,7 +4,7 @@
 
 Karagianni Stores is a men’s clothing shop located in the center of Patras, Greece. With over 40 years of history, we are committed to offering carefully selected, high-quality clothing at attractive prices.
 
-This codebase powers the official website for Karagianni Stores. The site should feel polished, professional, and modern, while clearly providing the information a potential customer may want before visiting in person. It is not an e-commerce platform and does not support online transactions. Instead, it serves as a landing page that encourages customers to visit the store, call, or get in touch via email.
+This website will power the official website for Karagianni Stores. The site should feel polished, professional, and modern, while clearly providing the information a potential customer may want before visiting in person. It is not an e-commerce platform and does not support online transactions. Instead, it serves as a landing page that encourages customers to visit the store, call, or get in touch via email.
 
 ## Technicals
 
